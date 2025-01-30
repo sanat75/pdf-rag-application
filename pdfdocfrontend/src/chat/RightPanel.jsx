@@ -10,7 +10,7 @@ const RightPanel = ({ imageurl }) => {
     }} className="flex flex-col items-center p-4 w-full h-full rounded-lg shadow-md bg-gradient-to-b from-[#004AAD] to-[#5DE0E6]">
       {/* <div className="flex flex-col w-full md:w-1/4"> */}
       <ProductCard
-        title="Designed with ❤ by Aditya patel and Arihant Jain"
+        title="Designed by Sanat Chaudhary"
         description="Upload the pdf and ask anything about it ..."
         image={images}  // Replace with the actual image path
         price="₹2000"

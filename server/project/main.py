@@ -90,3 +90,5 @@ def deletedata():
     
 
     return {"status":"deleted successfully all the files and directories"}
+
+
