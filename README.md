@@ -49,6 +49,7 @@ pip install -r requirements.txt
 set MONGO_URI="your_mongo_uri"
 set DATABASE_NAME="abc"
 set COLLECTION_NAME="xyz"
+```
 ## 👨‍💻 Contributors
 - **Sanat Chaudhary** (sanat23122003@gmail.com)
 - Open for contributions! 🚀
